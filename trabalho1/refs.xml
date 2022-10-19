@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3">
+<mods ID="glass_fiber">
+    <titleInfo>
+        <title>Fundamentals of Heat and Mass Transfer</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Theodore</namePart>
+        <namePart type="given">L</namePart>
+        <namePart type="family">Bergman</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Adrienne</namePart>
+        <namePart type="given">S</namePart>
+        <namePart type="family">Lavine</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Frank</namePart>
+        <namePart type="given">P</namePart>
+        <namePart type="family">Incropera</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">David</namePart>
+        <namePart type="given">P</namePart>
+        <namePart type="family">DeWitt</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <issuance>monographic</issuance>
+        <dateIssued>2018</dateIssued>
+        <publisher>Wiley</publisher>
+        <edition>8</edition>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">book</genre>
+    <identifier type="isbn">978-1-119-35388-1</identifier>
+    <identifier type="citekey">glass_fiber</identifier>
+</mods>
+<mods ID="argila_expandida">
+    <titleInfo>
+        <title>Avaliação da condutividade térmica de concretos leves com argila expandida</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">H</namePart>
+        <namePart type="given">M</namePart>
+        <namePart type="family">Sacht</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">J</namePart>
+        <namePart type="given">A</namePart>
+        <namePart type="family">Rossignolo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">W</namePart>
+        <namePart type="given">N</namePart>
+        <namePart type="family">Santos</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2010</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Matéria (Rio de Janeiro)</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>FapUNIFESP (SciELO)</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">argila_expandida</identifier>
+    <identifier type="doi">10.1590/s1517-70762010000100005</identifier>
+    <identifier type="doi">10.1590%2Fs1517-70762010000100005</identifier>
+    <part>
+        <date>2010</date>
+        <detail type="volume"><number>15</number></detail>
+        <detail type="issue"><number>1</number></detail>
+        <extent unit="page">
+            <start>31</start>
+            <end>39</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="betao_armado">
+    <titleInfo>
+        <title>Thermal conductivity of concrete – A review</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Iman</namePart>
+        <namePart type="family">Asadi</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Payam</namePart>
+        <namePart type="family">Shafigh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Zahiruddin</namePart>
+        <namePart type="given">Fitri</namePart>
+        <namePart type="given">Bin</namePart>
+        <namePart type="given">Abu</namePart>
+        <namePart type="family">Hassan</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+        <namePart type="given">Norhayati</namePart>
+        <namePart type="given">Binti</namePart>
+        <namePart type="family">Mahyuddin</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2018-11</dateIssued>
+    </originInfo>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="bibutilsgt">journal article</genre>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Journal of Building Engineering</title>
+        </titleInfo>
+        <originInfo>
+            <issuance>continuing</issuance>
+            <publisher>Elsevier BV</publisher>
+        </originInfo>
+        <genre authority="marcgt">periodical</genre>
+        <genre authority="bibutilsgt">academic journal</genre>
+    </relatedItem>
+    <identifier type="citekey">betao_armado</identifier>
+    <identifier type="doi">10.1016/j.jobe.2018.07.002</identifier>
+    <identifier type="doi">10.1016%2Fj.jobe.2018.07.002</identifier>
+    <part>
+        <date>2018-11</date>
+        <detail type="volume"><number>20</number></detail>
+        <extent unit="page">
+            <start>81</start>
+            <end>93</end>
+        </extent>
+    </part>
+</mods>
+<mods ID="poliuretano">
+    <titleInfo>
+        <title>O que é espuma de poliuretano – definição</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="given">Nick</namePart>
+        <namePart type="family">Connor</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2019-11</dateIssued>
+    </originInfo>
+    <genre authority="bibutilsgt">miscellaneous</genre>
+    <identifier type="citekey">poliuretano</identifier>
+    <location>
+        <url>https://www.thermal-engineering.org/pt-br/o-que-e-espuma-de-poliuretano-definicao/</url>
+    </location>
+</mods>
+<mods ID="poliestireno">
+    <titleInfo>
+        <title>Expanded Polystyrene – EPS</title>
+    </titleInfo>
+    <name>
+        <namePart>nuclear-power.com Team</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2021-07</dateIssued>
+    </originInfo>
+    <genre authority="bibutilsgt">miscellaneous</genre>
+    <identifier type="citekey">poliestireno</identifier>
+    <location>
+        <url>https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/expanded-polystyrene-eps</url>
+    </location>
+</mods>
+<mods ID="janelas_tamanho">
+    <titleInfo>
+        <title>Sistema Cor-3000 com RPT</title>
+    </titleInfo>
+    <name>
+        <namePart>Cortizo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">author</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateIssued>2015-03</dateIssued>
+    </originInfo>
+    <genre authority="bibutilsgt">miscellaneous</genre>
+    <identifier type="citekey">janelas_tamanho</identifier>
+    <location>
+        <url>https://www.cortizo.com/pt/ficheros/sistema/fichatecnica/6/pt/cor-3000-rpt.pdf</url>
+    </location>
+</mods>
+</modsCollection>
